@@ -1,0 +1,1 @@
+All the codes for 4 labs are in "lab1.mlx","lab2.mlx","lab3.mlx","lab4.mlx" which are live script and they should be examined in matlab.
